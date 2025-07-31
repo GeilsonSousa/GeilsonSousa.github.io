@@ -1,13 +1,12 @@
-# Portfólio de Geilson Sousa  
+- # Portfólio Geilson Sousa
 
-![Preview](assets/img/previa.jpg)  
+[![GitHub Pages](https://img.shields.io/badge/🌐_Acesse_o_Portfólio-00C896?style=for-the-badge)](https://geilsonsousa.github.io)
 
-Portfólio minimalista em dark mode, focado em demonstrar habilidades em QA e Front-End.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geilsonsousapaulino/)
+## 🛠 Tecnologias
+- ✔️ Testes manuais/automatizados
+- ✔️ Postman | Cypress | JavaScript
+- ✔️ HTML5 & CSS3
 
-## 🚀 Tecnologias  
-- HTML5, CSS3, JavaScript  
-- Hospedado no GitHub Pages  
-
-## 🔗 Links  
-- [Acesse o Portfólio](https://geilsonsousa.github.io)  
-- [LinkedIn](https://www.linkedin.com/in/geilsonsousapaulino/)  
+## 📸 Preview
+![Preview](assets/img/previa.jpg)
